@@ -19,3 +19,10 @@ function print(){
   let a='Deni';
   document.body.innerHTML+= `<div>${a}</div>`;
 }
+function print_other(){
+  let a='Petrov';
+  document.body.innerHTML += `<div>${a}</div>`;
+  for(let b=1;b<10;b++){
+    document.body.innerHTML += `<div>${b}</div>`;
+  }
+}
