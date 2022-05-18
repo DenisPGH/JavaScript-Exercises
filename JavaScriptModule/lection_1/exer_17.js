@@ -21,5 +21,5 @@ function my_func(...arguments){
 }
 
 
-// my_func('32', 'chop', 'chop', 'chop', 'chop', 'chop');
+my_func('32', 'chop', 'chop', 'chop', 'chop', 'chop');
 // my_func('9', 'dice', 'spice', 'chop', 'bake', 'fillet');
