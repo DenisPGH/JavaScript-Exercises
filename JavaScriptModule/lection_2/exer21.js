@@ -7,10 +7,10 @@ function my(list,del){
 
 
 
-my(['One', 
-'Two', 
-'Three', 
-'Four', 
-'Five'], 
-'-'
-)
+// my(['One', 
+// 'Two', 
+// 'Three', 
+// 'Four', 
+// 'Five'], 
+// '-'
+// )
