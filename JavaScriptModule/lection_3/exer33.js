@@ -47,13 +47,13 @@ delete dict['wheelsize'];
 }
 
 
-let a={ model: 'VW Golf II',
-power: 90,
-color: 'blue',
-carriage: 'hatchback',
-wheelsize: 14 }
+// let a={ model: 'VW Golf II',
+// power: 90,
+// color: 'blue',
+// carriage: 'hatchback',
+// wheelsize: 14 }
 
-b=solve(a);
+// b=solve(a);
 
 
-console.log(b);
+// console.log(b);
